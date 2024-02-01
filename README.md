@@ -9,33 +9,43 @@ Welcome to a comprehensive collection of resources covering various aspects of d
 Explore fundamental concepts, understanding how databases store, organize, and manage data efficiently.
 
 **Database Management Systems**
+
 Delve into popular DBMS such as MySQL, PostgreSQL, Oracle, and SQL Server.
 
 **Types of Databases**
-nderstand relational, NoSQL, and NewSQL databases, each designed for specific use cases.
+
+Understand relational, NoSQL, and NewSQL databases, each designed for specific use cases.
 
 **SQL**
-aster the standard language for interacting with relational databases.
+
+Master the standard language for interacting with relational databases.
 
 **Data Modeling**
-earn the art of designing a database's structure, including tables, relationships, and constraints.
+
+Learn the art of designing a database's structure, including tables, relationships, and constraints.
 
 **OLAP**
-ain insights into OLAP tools for interactive multidimensional data analysis.
+
+Gain insights into OLAP tools for interactive multidimensional data analysis.
 
 **Courses**
-xplore online courses for all skill levels, covering a spectrum of database-related topics.
+
+Explore online courses for all skill levels, covering a spectrum of database-related topics.
 
 **Learning Platforms**
-iscover dedicated platforms offering courses, tutorials, and resources for database management.
 
-**Practice Exercises**
-harpen your skills with hands-on practice exercises and real-world problem-solving.
+Discover dedicated platforms offering courses, tutorials, and resources for database management.
+
+**Practice Exercises**2
+
+Sharpen your skills with hands-on practice exercises and real-world problem-solving.
 
 **Preparation for Jobs**
+
 Find resources guiding you in preparing for a career in database management.
 
 **Interview Questions**
+
 Equip yourself with common interview questions related to databases.
 
 **More...**
