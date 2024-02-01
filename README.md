@@ -5,6 +5,7 @@ Welcome to a comprehensive collection of resources covering various aspects of d
 ## Table of Contents
 
 **Database Concepts**
+
 Explore fundamental concepts, understanding how databases store, organize, and manage data efficiently.
 
 **Database Management Systems**
