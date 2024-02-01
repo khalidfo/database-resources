@@ -1,1 +1,1 @@
-# database-practice1
+# database-resources
