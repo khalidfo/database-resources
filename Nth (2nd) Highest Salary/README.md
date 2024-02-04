@@ -159,7 +159,7 @@ SELECT salary
 FROM RESULT  
 WHERE denserank = 2;
 
--- You can also use RANK(), ROW_NUMER()
+-- You can also use RANK(), ROW_NUMER() instead of DENSE_RANK()
 
 ```
 
@@ -213,5 +213,5 @@ Now, let's put the SQL query to the test with a substantial amount of data to ev
 ### Performance Testing
 To assess the query's performance, consider running it on a larger dataset within your PostgreSQL environment. Measure the execution time and resource utilization to ensure efficiency, especially as the dataset size increases. 
 
-> [!NOTE]
+> [!IMPORTANT]
 > Feel free to share these valuable insights with others so that they can benefit from the solutions provided. Sharing knowledge fosters a collaborative learning environment and helps the community understand various approaches to SQL problem-solving. Whether it's discussing performance testing or exploring alternative methods, spreading the information can empower others in their SQL journey. Don't hesitate to pass along this resourceful content to contribute to the collective knowledge base.
