@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS emp(
     id serial PRIMARY KEY,
     name character varying,
     salary integer    
-)
+);
 
 ```
 
@@ -37,15 +37,15 @@ CREATE TABLE IF NOT EXISTS emp(
 ```sql
 INSERT INTO emp(name, salary)
 	VALUES ('Abdullah',30000),
-			('Umar',	80000),
-			('Jubair',	35000),
-			('Jafar',	58000),
-			('Zaied',	40000),
-			('Abid',	45000),
-			('Saad',	38000),
-			('Ahmed',	30000),
-			('Kasem',	27000),
-			('Usman',	42000);  
+		('Umar',	80000),
+		('Jubair',	35000),
+		('Jafar',	58000),
+		('Zaied',	40000),
+		('Abid',	45000),
+		('Saad',	38000),
+		('Ahmed',	30000),
+		('Kasem',	27000),
+		('Usman',	42000);  
 ```
 ## Show Data From emp Table		
 
