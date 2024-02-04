@@ -25,7 +25,7 @@ All SQL query is tailored for PostgreSQL and retrieves the 2nd highest salary fr
 
 ## Create emp Table
 ```sql
-CREATE TABLE IF NOT EXISTS public.emp(
+CREATE TABLE IF NOT EXISTS emp(
     id serial PRIMARY KEY,
     name character varying,
     salary integer    
@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS public.emp(
 
 ## Insert Data To emp Table
 ```sql
-INSERT INTO public.emp(name, salary)
+INSERT INTO emp(name, salary)
 	VALUES ('Abdullah',30000),
 			('Umar',	80000),
 			('Jubair',	35000),
