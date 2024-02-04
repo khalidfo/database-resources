@@ -51,5 +51,5 @@ Equip yourself with common interview questions related to databases.
 **More...**
 Explore additional resources, articles, forums, and communities to stay updated on the latest trends.
 
-
+> [!IMPORTANT]
 > Feel free to share these resources, enhancing your knowledge and skills in the dynamic field of databases.
