@@ -36,7 +36,7 @@ Explore online courses for all skill levels, covering a spectrum of database-rel
 
 Discover dedicated platforms offering courses, tutorials, and resources for database management.
 
-**Practice Exercises**2
+**Practice Exercises**
 
 Sharpen your skills with hands-on practice exercises and real-world problem-solving.
 
@@ -51,4 +51,5 @@ Equip yourself with common interview questions related to databases.
 **More...**
 Explore additional resources, articles, forums, and communities to stay updated on the latest trends.
 
-Feel free to explore these resources, enhancing your knowledge and skills in the dynamic field of databases.
+> [!NOTE]
+> Feel free to share these resources, enhancing your knowledge and skills in the dynamic field of databases.
