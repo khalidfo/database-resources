@@ -2,7 +2,7 @@
 
 Ad-hoc in-memory tables refer to temporary tables created dynamically during a session to hold intermediate or temporary data. These tables exist only for the duration of the session and are typically used for storing intermediate results, performing complex calculations, or simplifying data manipulation tasks. They are not permanently stored in the database but reside in memory.
 
-## in-memory table with integer number
+## In-memory table with integer number
 
 ```sql
 SELECT *
@@ -17,7 +17,7 @@ FROM (
 |    2    | 
 |    3    | 
 
-## in-memory table with character
+## In-memory table with character
 
 ```sql
 SELECT *
@@ -32,7 +32,7 @@ FROM (
 |    B    | 
 |    C    | 
 
-## in-memory table - mix character and integer value
+## In-memory table - mix character and integer value
 
 ```sql
 SELECT * FROM (
