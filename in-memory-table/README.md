@@ -1,0 +1,1 @@
+# Exploring In-Memory Tables in PostgreSQL: Techniques and Use Cases
